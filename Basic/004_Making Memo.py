@@ -22,4 +22,4 @@ elif option == '-v':
     f = open('memo.txt')
     memo = f.read()
     f.close()
-    print(memo)
+    print(memo) 
