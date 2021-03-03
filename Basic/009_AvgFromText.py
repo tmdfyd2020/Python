@@ -30,4 +30,4 @@ total = 0
 for line in lines:
   score = int(line)
   total += score
- average = total / len(lines)
+ average = total / len(lines) 
