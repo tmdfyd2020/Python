@@ -22,4 +22,4 @@ def search(dirname):
     except PermissionError:  # os.listdir를 수행할 때 권한이 없는 디렉터리에 접근하더라도 프로그램이 오류로 종류하지 않고 수행
         pass
 
-search("C:/")
+search("C:/") 
