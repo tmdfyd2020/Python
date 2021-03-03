@@ -30,4 +30,4 @@ def fib(n):
     return fib(n-2) + fib(n-1)
 
 for i in range(10):
-    print(fib(i))
+    print(fib(i)) 
